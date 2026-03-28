@@ -1,0 +1,32 @@
+⚙️ Installation Guide (MT4)
+
+Follow these steps to install the indicator in MetaTrader 4:
+
+1. Download the Indicator
+Download the .ex4 file from this repository.
+
+2. Open MT4 Data Folder
+Open MetaTrader 4
+In the top menu, click:
+File → Open Data Folder
+
+3. Navigate to Indicators Folder
+Go to:
+MQL4 → Indicators
+
+4. Add the File
+Copy and paste the downloaded indicator file into the Indicators folder
+
+5. Restart MT4 (recommended)
+Close and reopen MetaTrader 4
+(or right-click in Navigator → Refresh)
+
+6. Apply the Indicator
+In MT4, open the Navigator panel
+Expand Indicators
+Drag and drop the indicator onto your chart
+(or double-click it)
+
+7. Recommended Setup
+Use the indicator on the EUR/USD chart
+Timeframe can be adjusted based on your trading style
